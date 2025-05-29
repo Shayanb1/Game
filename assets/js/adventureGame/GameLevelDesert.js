@@ -5,10 +5,6 @@ import Npc from './GameEngine/Npc.js';
 import Quiz from './Quiz.js';
 import DialogueSystem from './DialogueSystem.js';
 import GameControl from './GameEngine/GameControl.js';
-import GameLevelStarWars from './GameLevelStarWars.js';
-import GameLevelMeteorBlaster from './GameLevelMeteorBlaster.js';
-import GameLevelMinesweeper from './GameLevelMinesweeper.js';
-import GameLevelEnd from './GameLevelEnd.js';
 
 class GameLevelDesert {
   constructor(gameEnv) {
